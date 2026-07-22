@@ -1,55 +1,53 @@
-# Hi, I'm Abhillash Jadhav
+# Abhillash Jadhav
 
-**AI Product Leader turning AI and GenAI capabilities into production products, reusable platforms, and measurable customer and business outcomes.**
+**AI product leader building reliable AI systems, evaluation infrastructure, and reusable product workflows.**
 
-My background spans Amazon, Wayfair, and Cimpress, where I have built and scaled complex products and platforms in large-scale environments. I focus on the practical work required to move AI from promising capability to something customers can adopt, organisations can operate, and teams can improve in production.
+My work focuses on the difficult step between an impressive AI demo and a product that people can trust, adopt, operate, and improve. My background spans Amazon, Wayfair, and Cimpress, with hands-on product fluency across agentic workflows, RAG, multimodal AI, model routing, evaluation systems, observability, privacy, and human-in-the-loop design.
 
-I lead at both the **product and system level**—setting direction, making difficult product and investment decisions, aligning executives and multidisciplinary teams, and staying close enough to architecture, workflows, evaluations, and failure modes to improve production readiness and outcomes.
+## Start here
 
-## What I focus on
+| Project | Use it when you need to… | First useful result |
+| --- | --- | --- |
+| **[pm-evals](https://github.com/Abhillashjadhav/pm-evals)** | Define quality for an AI feature, calibrate a judge, and turn failures into a release decision | Run `pm-evals demo` and inspect a deterministic evaluation report |
+| **[Loop Engineering](https://github.com/Abhillashjadhav/loop-engineering)** | Execute a locked goal through atomic tasks, independent verification, bounded recovery, and evidence-backed completion | Run the synthetic audit and receive an Accuracy Evidence Pack |
+| **[AI PM Skills Marketplace](https://github.com/Abhillashjadhav/AI-PM-essential-skills)** | Add practical AI-product skills to Claude Code, including spec-to-eval verification and guarded loop design | Install one plugin and invoke it from a real product decision |
 
-- **AI product strategy and business transformation:** turning emerging capabilities into differentiated products, better workflows, and measurable outcomes
-- **Customer products and intelligent experiences:** conversational, multimodal, decisioning, and workflow products for customers, employees, sellers, experts, and operators
-- **Platforms, data, and model strategy:** reusable intelligence layers, APIs, integrations, RAG, retrieval and memory, data feedback loops, model selection, routing, and fine-tuning strategy
-- **Production scale, adoption, and economics:** reliability, observability, latency, rollout, fallback, operational readiness, adoption, and unit economics
-- **Trust, evaluation, and responsible AI:** probabilistic evaluation, confidence-aware escalation, privacy, security, guardrails, human oversight, monitoring, and rollback
-- **Product and organisational leadership:** portfolio direction, executive alignment, multidisciplinary execution, and operating mechanisms that help teams scale
+These are the three portfolio anchors:
 
-**Hands-on product fluency across RAG, retrieval and memory, agentic workflows, multimodal AI, MCP and tool use, model routing, fine-tuning decisions, evaluation systems, observability, and human-in-the-loop design.**
+- **`pm-evals` is the flagship product:** evaluation tooling designed around product decisions rather than infrastructure alone.
+- **`loop-engineering` is the technical authority proof:** a deterministic runtime for verified autonomous execution.
+- **`AI-PM-essential-skills` is the distribution hub:** focused skills that can be installed into an existing product workflow.
 
-## How I approach AI product leadership
-
-- **Optimise for impact, not demos.** Success means measurable customer and business outcomes—not model capability in isolation.
-- **Design for uncertainty.** AI products need confidence-aware experiences, clarification, abstention, escalation, and graceful fallback.
-- **Design for production from the start.** Reliability, latency, cost, observability, human fallback, monitoring, and rollback are product requirements.
-- **Design for platform leverage.** Shared capabilities should accelerate teams without creating central bottlenecks or removing necessary product autonomy.
-- **Treat evaluation as core product infrastructure.** Final-answer accuracy is not enough; tool use, retrieval quality, trajectories, safety, and silent failures also matter.
-- **Make trade-offs explicit.** Quality, speed, cost, reliability, extensibility, adoption, and time-to-value should be managed as deliberate product decisions.
-- **Separate evidence from assertion.** Public claims should map to working artifacts, documented tests, or clearly stated limitations.
-
-## Selected public work
+## Other working products
 
 | Project | What it demonstrates |
 | --- | --- |
-| **[PM-agent-OS](https://github.com/Abhillashjadhav/PM-agent-OS)** | Structured product-management skills across discovery, strategy, build, launch, and iteration, with explicit validation and evidence boundaries. |
-| **[AI-PM-essential-skills](https://github.com/Abhillashjadhav/AI-PM-essential-skills)** | Practical AI product workflows covering evaluation rubrics, context auditing, cost reasoning, concise communication, and local-first tooling. |
-| **[Loop Engineering](https://github.com/Abhillashjadhav/loop-engineering)** | A goal-driven execution system built around locked objectives, atomic tasks, independent verification, drift checks, recovery, and evidence-backed completion. |
-| **[LinkedIn Authority OS](https://github.com/Abhillashjadhav/Linkedin-research-posts)** | An evidence-grounded research and drafting workflow with privacy controls, deterministic gates, explicit provenance, and human approval. |
-| **[Trajectory Eval Harness](https://github.com/Abhillashjadhav/Evals-pass-1)** | A working example of step-level agent evaluation that catches silent failures missed by final-answer-only grading. |
+| **[PM-agent-OS](https://github.com/Abhillashjadhav/PM-agent-OS)** | Forty product-management skills covering discovery, strategy, build, launch, and iteration, with explicit evidence boundaries and structural validation |
+| **[LinkedIn Authority OS](https://github.com/Abhillashjadhav/Linkedin-research-posts)** | A local research-to-draft workflow with provenance, deterministic honesty gates, private review packages, and manual publishing controls |
 
-## The problems I enjoy solving
+## What I build for
 
-- deciding which customer and business problems are worth solving with AI
-- determining what belongs in a shared platform versus a product-specific implementation
-- choosing among prompting, RAG, tools, memory, model routing, and fine-tuning based on quality, latency, cost, and risk
-- defining when an AI system should act, ask for clarification, escalate, or stop
-- creating evaluation systems that remain representative as products, data, and models evolve
-- moving teams from fragile prototypes to reliable, measurable, production-ready AI products
-- driving adoption and business impact without compromising safety, quality, or unit economics
+- **Outcome before capability:** customer and business results matter more than model benchmarks.
+- **Evaluation as product infrastructure:** final-answer accuracy is not enough; retrieval, tool use, trajectories, silent failures, safety, and consistency also matter.
+- **Designed uncertainty:** clarification, abstention, escalation, fallback, monitoring, and rollback are product requirements.
+- **Reusable leverage:** shared intelligence layers should accelerate teams without becoming central bottlenecks.
+- **Explicit trade-offs:** quality, latency, cost, reliability, extensibility, adoption, and time-to-value must be managed deliberately.
+- **Evidence before assertion:** public claims should map to working artifacts, reproducible checks, or clearly stated limitations.
+
+## Problems I enjoy solving
+
+- deciding which customer and business problems are worth solving with AI;
+- separating reusable platform capabilities from product-specific workflows;
+- choosing among prompting, RAG, tools, memory, routing, and fine-tuning;
+- defining when an AI system should act, clarify, escalate, or stop;
+- building evaluation systems that remain representative as products and models evolve;
+- moving teams from fragile prototypes to reliable, measurable production products.
 
 ## Public-work boundary
 
-The projects on this profile are personal, public artifacts. They demonstrate practical product and system patterns, but they do not reproduce employer systems or disclose proprietary metrics, internal architecture, customer information, or confidential implementation details. Each repository should be evaluated according to its documented validation scope and limitations.
+These repositories are personal public artifacts. They do not reproduce employer systems or disclose proprietary metrics, internal architecture, customer information, or confidential implementation details. Each repository states its own validation scope and limitations.
+
+If a project solves a real problem for you, use it, challenge it, open an issue, or star it so I know where to invest next.
 
 ## Connect
 
