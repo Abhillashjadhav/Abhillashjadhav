@@ -2,45 +2,36 @@
 
 **GenAI Product Leader building scalable, safe, and evaluation-driven AI platforms and agentic products.**
 
-I work at the intersection of **product strategy, AI systems, platform thinking, and execution**. My background spans Amazon, Wayfair, and Cimpress, where I have worked on complex products and platforms in large-scale environments.
+I turn complex GenAI opportunities into **clear product strategies, reusable platforms, and reliable customer outcomes**. My background spans Amazon, Wayfair, and Cimpress, where I have worked on complex products and platforms in large-scale environments.
 
-I am strongest in roles that require a leader to:
-
-- turn ambiguous AI opportunities into a clear product strategy and roadmap
-- build reusable platforms instead of isolated point solutions
-- balance quality, latency, cost, safety, and adoption
-- align senior stakeholders and multidisciplinary teams
-- stay hands-on enough to inspect architecture, workflows, evaluations, and failure modes
-
-I am comfortable operating as a **Principal individual contributor** or **leading product teams**, depending on the problem and organisational need.
+I lead at both the **product and system level**—driving difficult product decisions, aligning multidisciplinary teams, and staying close enough to architecture, workflows, evaluations, and failure modes to challenge the system with precision.
 
 ## What I focus on
 
 - **AI platforms and reusable intelligence layers**
-- **Agentic workflows and tool-using systems**
-- **Multimodal and conversational intelligence**
+- **Agentic, multimodal, and conversational products**
 - **AI developer experience and GenAI-enabled software delivery**
-- **Evaluation, observability, model-upgrade gates, and rollout governance**
-- **Privacy, security, human oversight, and responsible AI**
-- **Product economics across quality, latency, and cost**
+- **Evaluation, observability, and model-upgrade decision systems**
+- **Privacy, security, human oversight, and responsible rollout**
+- **Product economics across quality, latency, reliability, and cost**
 
 ## How I approach AI product leadership
 
-- **Start with the customer and business problem.** Model capability is useful only when it changes an important outcome.
+- **Start with the customer and business problem.** Model capability matters only when it changes an important outcome.
 - **Design for platform leverage.** Shared capabilities should accelerate teams without removing necessary product autonomy.
-- **Treat evaluation as product infrastructure.** Final-answer accuracy alone is not enough; trajectories, tool use, retrieval, safety, and silent failures also matter.
-- **Build safety into the system.** Privacy, access control, adversarial risks, human oversight, staged rollout, monitoring, and rollback should be designed early.
-- **Make trade-offs explicit.** Quality, speed, cost, reliability, and extensibility must be managed as product decisions.
-- **Separate evidence from assertion.** Public claims should be traceable to working artifacts, documented tests, or clearly stated limitations.
+- **Treat evaluation as core product infrastructure.** Final-answer accuracy is not enough; tool use, retrieval, trajectories, safety, and silent failures also matter.
+- **Make trade-offs explicit.** Quality, speed, cost, reliability, and extensibility should be managed as deliberate product decisions.
+- **Build trust into the system.** Privacy, access control, human oversight, staged rollout, monitoring, and rollback should be designed early.
+- **Separate evidence from assertion.** Public claims should map to working artifacts, documented tests, or clearly stated limitations.
 
 ## Selected public work
 
 | Project | What it demonstrates |
 | --- | --- |
-| **[PM-agent-OS](https://github.com/Abhillashjadhav/PM-agent-OS)** | A structured collection of product-management skills across discovery, strategy, build, launch, and iteration, with explicit validation and evidence boundaries. |
-| **[AI-PM-essential-skills](https://github.com/Abhillashjadhav/AI-PM-essential-skills)** | Practical AI product-management workflows covering evaluation rubrics, context auditing, cost reasoning, concise communication, and local-first tooling. |
+| **[PM-agent-OS](https://github.com/Abhillashjadhav/PM-agent-OS)** | Structured product-management skills across discovery, strategy, build, launch, and iteration, with explicit validation and evidence boundaries. |
+| **[AI-PM-essential-skills](https://github.com/Abhillashjadhav/AI-PM-essential-skills)** | Practical AI product workflows covering evaluation rubrics, context auditing, cost reasoning, concise communication, and local-first tooling. |
 | **[Loop Engineering](https://github.com/Abhillashjadhav/loop-engineering)** | A goal-driven execution system built around locked objectives, atomic tasks, independent verification, drift checks, recovery, and evidence-backed completion. |
-| **[LinkedIn Authority OS](https://github.com/Abhillashjadhav/Linkedin-research-posts)** | An evidence-grounded research and drafting workflow with privacy controls, deterministic safety gates, explicit provenance, and human approval. |
+| **[LinkedIn Authority OS](https://github.com/Abhillashjadhav/Linkedin-research-posts)** | An evidence-grounded research and drafting workflow with privacy controls, deterministic gates, explicit provenance, and human approval. |
 | **[Trajectory Eval Harness](https://github.com/Abhillashjadhav/Evals-pass-1)** | A working example of step-level agent evaluation that catches silent failures missed by final-answer-only grading. |
 
 ## The problems I enjoy solving
@@ -50,9 +41,8 @@ I am particularly interested in product challenges where the answer is not simpl
 - deciding what belongs in a shared AI platform versus a product-specific implementation
 - determining when an agent should act, ask for clarification, escalate, or stop
 - creating evaluation systems that remain representative as products and models change
-- designing safe, low-latency multimodal and conversational experiences
+- designing low-latency multimodal and conversational experiences with appropriate safeguards
 - moving teams from prototypes to governed, measurable, production-ready AI products
-- building operating mechanisms that help organisations adopt AI responsibly at scale
 
 ## Public-work boundary
 
