@@ -1,6 +1,6 @@
 # Abhillash Jadhav
 
-**AI product leader building reliable AI systems, evaluation infrastructure, and reusable product workflows.**
+**AI product leader building governed engineering systems, reliable agentic workflows, and evaluation infrastructure.**
 
 My work focuses on the difficult step between an impressive AI demo and a product that people can trust, adopt, operate, and improve. My background spans Amazon, Wayfair, and Cimpress, with hands-on product fluency across agentic workflows, RAG, multimodal AI, model routing, evaluation systems, observability, privacy, and human-in-the-loop design.
 
@@ -8,15 +8,17 @@ My work focuses on the difficult step between an impressive AI demo and a produc
 
 | Project | Use it when you need to… | First useful result |
 | --- | --- | --- |
-| **[pm-evals](https://github.com/Abhillashjadhav/pm-evals)** | Define quality for an AI feature, calibrate a judge, and turn failures into a release decision | Run `pm-evals demo` and inspect a deterministic evaluation report |
+| **[Production Engineering OS](https://github.com/Abhillashjadhav/production-engineering-os)** | Turn an approved product decision into governed engineering execution with traceability, independent review, security gates, and an evidence-backed draft-PR handoff | Run `pmpe demo` and inspect the verified engineering report |
 | **[Loop Engineering](https://github.com/Abhillashjadhav/loop-engineering)** | Execute a locked goal through atomic tasks, independent verification, bounded recovery, and evidence-backed completion | Run the synthetic audit and receive an Accuracy Evidence Pack |
+| **[pm-evals](https://github.com/Abhillashjadhav/pm-evals)** | Define quality for an AI feature, calibrate a judge, and turn failures into a release decision | Run `pm-evals demo` and inspect a deterministic evaluation report |
 | **[AI PM Skills Marketplace](https://github.com/Abhillashjadhav/AI-PM-essential-skills)** | Add practical AI-product skills to Claude Code, including spec-to-eval verification, guarded loop design, and agent graph design | Install one plugin and produce a decision artifact, guarded loop, or validated graph contract |
 
-These are the three portfolio anchors:
+These are the four portfolio anchors:
 
-- **`pm-evals` is the flagship product:** evaluation tooling designed around product decisions rather than infrastructure alone.
-- **`loop-engineering` is the technical authority proof:** a deterministic runtime for verified autonomous execution.
-- **`AI-PM-essential-skills` is the distribution hub:** focused skills that can be installed into an existing product workflow.
+- **`production-engineering-os` is the primary lighthouse platform:** a contract-to-proof system that turns approved product intent into governed, evidence-backed engineering execution.
+- **`loop-engineering` is the autonomous-execution reliability proof:** a deterministic runtime for verified long-running work.
+- **`pm-evals` is the evaluation product:** tooling designed around product release decisions rather than infrastructure alone.
+- **`AI-PM-essential-skills` is the distribution hub:** installable skills for verification, guarded loops, and graph engineering.
 
 ## Loop Engineering and Graph Engineering
 
