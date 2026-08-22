@@ -4,38 +4,32 @@
 
 My work focuses on the difficult step between an impressive AI demo and a product that people can trust, adopt, operate, and improve. My background spans Amazon, Wayfair, and Cimpress, with hands-on product fluency across agentic workflows, RAG, multimodal AI, model routing, evaluation systems, observability, privacy, and human-in-the-loop design.
 
-## Start here
+## Key products
 
-| Project | Use it when you need to… | First useful result |
+| Product | Use it when you need to… | What it achieves |
 | --- | --- | --- |
-| **[Production Engineering OS](https://github.com/Abhillashjadhav/production-engineering-os)** | Turn an approved product decision into governed engineering execution with traceability, independent review, security gates, and an evidence-backed draft-PR handoff | Run `pmpe demo` and inspect the verified engineering report |
-| **[Loop Engineering](https://github.com/Abhillashjadhav/loop-engineering)** | Execute a locked goal through atomic tasks, independent verification, bounded recovery, and evidence-backed completion | Run the synthetic audit and receive an Accuracy Evidence Pack |
-| **[pm-evals](https://github.com/Abhillashjadhav/pm-evals)** | Define quality for an AI feature, calibrate a judge, and turn failures into a release decision | Run `pm-evals demo` and inspect a deterministic evaluation report |
-| **[AI PM Skills Marketplace](https://github.com/Abhillashjadhav/AI-PM-essential-skills)** | Add practical AI-product skills to Claude Code, including spec-to-eval verification, guarded loop design, and agent graph design | Install one plugin and produce a decision artifact, guarded loop, or validated graph contract |
+| **[PMEvals](https://github.com/Abhillashjadhav/pm-evals)** | Define observable quality for an AI feature, calibrate a judge, and make a trace-backed release decision | Produces criterion pass rates, worst traces, failure clusters, judge-calibration evidence, and a product-review-ready report through a deterministic local CLI |
+| **[AI PM Skills Marketplace](https://github.com/Abhillashjadhav/AI-PM-essential-skills)** | Add a focused AI-product capability to Claude Code without adopting a monolithic PM system | Delivers seven installable, validated plugins for verification, tactical PM work, guarded loops, agent graphs, MCP migration, human writing, and AI-feature kill criteria |
+| **[Loop Engineering + Graph Engineering](https://github.com/Abhillashjadhav/loop-engineering)** | Run one long-lived autonomous goal reliably, or coordinate multiple guarded loops that must branch and converge | Locks goals, executes atomic tasks, verifies evidence independently, detects drift, resumes safely, and recovers within limits; the Graph Engineering extension adds typed handoffs, deterministic joins, failure routing, and accountable approval gates |
+| **[PM Agent OS](https://github.com/Abhillashjadhav/PM-agent-OS)** | Work through a product decision across discovery, strategy, build, launch, or iteration with explicit evidence and trade-offs | Routes work through 40 gated PM skills and seven reviewer perspectives, producing reviewable decision artifacts instead of unchecked prompt output |
+| **[Production Engineering OS](https://github.com/Abhillashjadhav/production-engineering-os)** | Turn an approved product decision into governed engineering and personal-execution workflows | Provides digest-locked contract intake, deterministic quality and security gates, independent review, evidence-backed handoffs, 21 verified workflow packs, and mobile-first approval controls |
 
-These are the four portfolio anchors:
+### Loop Engineering now extends to Graph Engineering
 
-- **`production-engineering-os` is the primary lighthouse platform:** a contract-to-proof system that turns approved product intent into governed, evidence-backed engineering execution.
-- **`loop-engineering` is the autonomous-execution reliability proof:** a deterministic runtime for verified long-running work.
-- **`pm-evals` is the evaluation product:** tooling designed around product release decisions rather than infrastructure alone.
-- **`AI-PM-essential-skills` is the distribution hub:** installable skills for verification, guarded loops, and graph engineering.
+Loop Engineering makes one autonomous unit reliable. The Graph Engineering extension applies that reliability model when several specialist loops or workers need explicit topology, typed shared state, conditional routing, deterministic `ALL_REQUIRED` joins, bounded recovery, and a named human decision gate.
 
-## Loop Engineering and Graph Engineering
+Use one loop for one locked objective and one durable working context. Use a graph when independently verifiable branches must run separately and satisfy an explicit join policy before work can proceed. A graph does not replace the loop: each graph node can itself be a guarded loop.
 
-**Loop Engineering makes one autonomous unit reliable. Graph Engineering coordinates multiple guarded loops.**
-
-The [Loop Engineering runtime](https://github.com/Abhillashjadhav/loop-engineering) locks the goal, executes atomic tasks, independently verifies evidence, detects drift, recovers within explicit limits, and fails closed when completion is not proven.
-
-The [`agent-graph-designer`](https://github.com/Abhillashjadhav/AI-PM-essential-skills/tree/main/agent-graph-designer) adds the coordination layer when work requires parallel branches, typed handoffs, shared state, deterministic `ALL_REQUIRED` joins, bounded failure routing, and accountable human approval.
+The shipped [`agent-graph-designer`](https://github.com/Abhillashjadhav/AI-PM-essential-skills/tree/main/agent-graph-designer) extension produces the loop-versus-graph verdict, machine-readable graph contract, synchronized topology, vendor-neutral runner skeleton, recovery rules, and approval boundary.
 
 > **Keep the loop; engineer the graph around it.**
 
 ## Other working products
 
-| Project | What it demonstrates |
-| --- | --- |
-| **[PM-agent-OS](https://github.com/Abhillashjadhav/PM-agent-OS)** | Forty product-management skills covering discovery, strategy, build, launch, and iteration, with explicit evidence boundaries and structural validation |
-| **[LinkedIn Authority OS](https://github.com/Abhillashjadhav/Linkedin-research-posts)** | A local research-to-draft workflow with provenance, deterministic honesty gates, private review packages, and manual publishing controls |
+| Project | Use it when you need to… | What it achieves |
+| --- | --- | --- |
+| **[Dream Job Search Agent](https://github.com/Abhillashjadhav/Dreamjob-agent)** | Run a repeatable search for Director PM, Principal PM, and Group PM roles without rebuilding the workflow every day | Finds, rule-filters, and scores roles; creates tailored resumes, ATS reports, gap analyses, interview preparation, and a daily brief; and preserves outputs and run evidence in GitHub and Google Drive |
+| **[LinkedIn Authority OS](https://github.com/Abhillashjadhav/Linkedin-research-posts)** | Turn research into credible LinkedIn drafts while keeping publishing under human control | Produces provenance-backed drafts, deterministic honesty checks, private review packages, and manual publishing handoffs |
 
 ## What I build for
 
