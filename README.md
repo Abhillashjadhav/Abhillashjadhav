@@ -6,9 +6,15 @@ My work focuses on the difficult step between an impressive AI demo and a produc
 
 ## Key products
 
+**Portfolio map:** PM Agent OS structures the product decision; Loop and Graph
+Engineering orchestrate bounded autonomous work; Production Engineering OS
+turns approved intent into verified implementation evidence; **AI Evals for
+PMs** verifies the AI feature or agent and supports the release decision. The
+AI PM Skills Marketplace distributes these focused capabilities.
+
 | Product | Use it when you need to… | What it achieves |
 | --- | --- | --- |
-| **[PM Verifier](https://github.com/Abhillashjadhav/AI-PM-essential-skills/tree/main/pm-verifier)** | Turn an AI feature spec into a repeatable, trace-backed release decision without learning an evaluation framework | Defines good, runs isolated trials, grades outcomes and trajectories with deterministic and human-calibrated model graders, inspects failures, and returns fail-closed `PASS`, `FAIL`, or `BLOCKED` evidence through an installable plugin and CI harness |
+| **[AI Evals for PMs](https://github.com/Abhillashjadhav/AI-PM-essential-skills/tree/main/pm-verifier)** (`pm-verifier`) | Turn an AI feature or agent specification into a repeatable, evidence-backed release decision without building an evaluation framework | Creates a versioned suite, runs isolated repeated trials, grades real outcomes and trajectories, validates calibrated model judgments, inspects failures, and returns auditable `PASS`, `FAIL`, or `BLOCKED` evidence through an installable plugin and out-of-band CI harness; quality scores are diagnostic evidence, not the release decision by themselves |
 | **[AI PM Skills Marketplace](https://github.com/Abhillashjadhav/AI-PM-essential-skills)** | Install one focused AI-product capability in Claude Code without adopting a monolithic PM system | Ships seven installable plugins for verification, tactical PM work, guarded loops, agent graphs, MCP migration, human writing, and AI-feature kill criteria; each produces a concrete artifact with validation fixtures |
 | **[Loop Engineering + Graph Engineering](https://github.com/Abhillashjadhav/loop-engineering)** | Run one long-lived autonomous goal reliably, or coordinate several independently verifiable loops or workers that must branch and converge | Loop Engineering locks goals, executes atomic tasks, verifies evidence independently, detects drift, resumes safely, and recovers within explicit limits. The shipped Graph Engineering extension adds explicit topology, typed handoffs, permissions, budgets, conditional routing, deterministic joins, failure routing, and accountable approval gates |
 | **[PM Agent OS](https://github.com/Abhillashjadhav/PM-agent-OS)** | Turn an AI product problem into an accountable decision across discovery, strategy, build, launch, or iteration—and hand approved intent to engineering without losing ownership or scope | Routes work through a `/pm` orchestrator, 40 lifecycle skills, three supporting skills, and seven reviewer perspectives. Its decision-to-contract boundary produces approval- and ID-keyed contracts proven against a pinned Production Engineering OS compiler; most skill fixtures remain structural specifications, not live-model behavioural evidence |
